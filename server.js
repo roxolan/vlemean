@@ -3,3 +3,4 @@
  */
 
 console.log('just checking');
+console.log(new Date());
